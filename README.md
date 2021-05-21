@@ -17,3 +17,7 @@ or just a few seconds to preview the effect
 ```
 ./vtoc input output 2
 ```
+
+# Snapshot
+
+![img](./mpv-shot0001.jpg)
