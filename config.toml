@@ -1,0 +1,16 @@
+[logo]
+enable = true
+file = "/home/ray/bgls/logo.png"
+# only show at the first 3 seconds
+seconds = 3
+# video width - logo width - 20
+x = "W-w-20"
+y = "20"
+[toc]
+# video height - line height
+y="h-lh"
+font = "Noto Sans CJK SC"
+fontsize = 32
+fontcolor = "#ff9900ff"
+backgroundcolor = "#00458e80"
+progresscolor = "#40458ecc"

@@ -1,0 +1,13 @@
+[package]
+name = "vtoc"
+version = "0.1.0"
+authors = ["Ray Wang <65251183@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+subprocess = "0.2"
+regex = "1.5"
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.5"
